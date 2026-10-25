@@ -1,0 +1,3 @@
+{"_MACHINE_ID":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb","_BOOT_ID":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","__REALTIME_TIMESTAMP":"1700000001000000","__MONOTONIC_TIMESTAMP":"1000000","MESSAGE":"Synthetic: service starts"}
+{"_MACHINE_ID":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb","_BOOT_ID":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","__REALTIME_TIMESTAMP":"1700000023000000","__MONOTONIC_TIMESTAMP":"3000000","MESSAGE":"Synthetic: after change"}
+{"_MACHINE_ID":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb","_BOOT_ID":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","__REALTIME_TIMESTAMP":"1700000022000000","__MONOTONIC_TIMESTAMP":"2000000","MESSAGE":"Synthetic: first observation after change"}
